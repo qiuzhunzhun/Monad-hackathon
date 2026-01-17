@@ -1,5 +1,6 @@
 node_modules/
 .env
+.env.local
 cache/
 artifacts/
 coverage/
@@ -8,3 +9,10 @@ typechain/
 typechain-types/
 *.log
 
+.idea/
+
+# Next.js
+.next/
+out/
+dist/
+build/
