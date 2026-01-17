@@ -113,7 +113,7 @@ export default function Home() {
     }
 
     try {
-      // 先尝试切换网络11
+      // 先尝试切换网络123
       try {
         await window.ethereum.request({
           method: "wallet_switchEthereumChain",
